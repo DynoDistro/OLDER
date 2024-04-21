@@ -2,25 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/categories/</loc>
+    <loc>https://prohairesis.xyz/categories/</loc>
     <lastmod>2018-08-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/categories/example/</loc>
+    <loc>https://prohairesis.xyz/categories/example/</loc>
     <lastmod>2018-08-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/</loc>
+    <loc>https://prohairesis.xyz/</loc>
     <lastmod>2018-08-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/markdown/</loc>
+    <loc>https://prohairesis.xyz/tags/markdown/</loc>
     <lastmod>2018-08-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/2018/08/30/markdown-guide-modified/</loc>
+    <loc>https://prohairesis.xyz/post/2018/08/30/markdown-guide-modified/</loc>
     <lastmod>2018-08-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/</loc>
+    <loc>https://prohairesis.xyz/post/</loc>
     <lastmod>2018-08-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://prohairesis.xyz/tags/</loc>
     <lastmod>2018-08-30T00:00:00+00:00</lastmod>
   </url>
 </urlset>
